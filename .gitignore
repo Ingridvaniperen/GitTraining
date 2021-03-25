@@ -1,2 +1,5 @@
 /.idea
 *.iml
+/gitignore
+/src/HelloWorld.java
+/src/Test.java
